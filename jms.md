@@ -1,6 +1,6 @@
 <DOCTYPE HTML>
 <html>
-  <title>stock sale</title>
+  <title>The stock sale</title>
 </html>
 <body>
   <table class="" cellpadding="2" cellspacing="5">
