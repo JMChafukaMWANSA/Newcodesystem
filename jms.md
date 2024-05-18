@@ -9,7 +9,7 @@
     </tr>
     <tr>
       <th> DAY</th>
-      <th>SELe</th>
+      <th>SALE</th>
       <th>DATE</th>
     </tr>
 
@@ -48,10 +48,6 @@
     <td>K3200<td>
     <td>012/05/2024</td>
     </tr>
-
-    <button type="submit">submit</button>
-    
-</form>
     
     
     
