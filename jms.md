@@ -1,16 +1,15 @@
 <DOCTYPE HTML>
 <html>
-  <title>The stock sale</title>
+  <title>STOCK SALE</title>
 </html>
 <body>
-  <table class="" cellpadding="2" cellspacing="5">
+  <table border='3'>
     <tr>
-      <th colspan="" align="centre"> STOCK SALE</th>
-      <form method="POST" action="adduster-php">
+      <th colspan='8'> STOCK SALE</th>
     </tr>
     <tr>
       <th> DAY</th>
-      <th>SELL</th>
+      <th>SELe</th>
       <th>DATE</th>
     </tr>
 
