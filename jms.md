@@ -3,7 +3,7 @@
   <title>STOCK SALE</title>
 </html>
 <body>
-  <table border="3" cellpadding="2" cellspacing="5">
+  <table border="3">
     <tr>
       <th colspan="8"> STOCK SALE</th>
     </tr>
