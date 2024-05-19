@@ -3,9 +3,9 @@
   <title>STOCK SALE</title>
 </html>
 <body>
-  <table border='3'>
+  <table border="3" cellpadding="2" cellspacing="5">
     <tr>
-      <th colspan='8'> STOCK SALE</th>
+      <th colspan="8"> STOCK SALE</th>
     </tr>
     <tr>
       <th> DAY</th>
